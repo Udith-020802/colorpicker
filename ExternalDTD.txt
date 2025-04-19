@@ -19,7 +19,7 @@
     </section>
 
     <section>
-      <title>Supported Platforms</title>
+      <title>UDITH PEDDINTI</title>
       <p>The software runs on Windows, macOS, and Linux.</p>
     </section>
   </conbody>
