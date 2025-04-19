@@ -19,7 +19,7 @@
     </section>
 
     <section>
-      <title>UDITH PEDDINTI</title>
+      <title>Sobhan Das</title>
       <p>The software runs on Windows, macOS, and Linux.</p>
     </section>
   </conbody>
